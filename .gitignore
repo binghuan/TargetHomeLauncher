@@ -1,0 +1,104 @@
+# Gradle
+.gradle/
+build/
+.gradle
+gradle.properties
+local.properties
+
+# Build outputs
+*.apk
+*.ap_
+*.dex
+*.aar
+
+# Compiled classes
+*.class
+*.jar
+
+# Generated files
+bin/
+gen/
+out/
+generated/
+
+# Proguard
+proguard/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+
+# Gradle caches and daemon
+caches/
+daemon/
+jdks/
+wrapper/
+
+# Android Emulator
+.android/
+
+# Node modules (React Native)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Firebase
+google-services.json
+!app/google-services.json
+
+# Security files
+*.jks
+*.keystore
+signing.properties
+
+# Backup and temp files
+*.bak
+*~
+.cache/
+
+# Lint reports
+lint-results.txt
+lint-results-debug.html
+lint-results-release.html
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Native build artifacts
+/native

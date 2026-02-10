@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">主畫面設定器</string>
+
+    <string name="msg_user_guide">請選擇一個應用程式來作為主畫面程式</string>
+    <string name="title_current_home">主畫面程式</string>
+
+    <string name="activity_not_found">目標應用程式沒有存在於裝置中</string>
+
+    <string name="notice_msg">點擊我開啟</string>
+
+    <string name="indicator_on">主畫面設定器 >> 開啟</string>
+    <string name="indicator_off">主畫面設定器 >> 關閉</string>
+
+    <string name="dialog_settings">設定</string>
+
+    <string name="dialog_setup_default">請選擇預設項目</string>
+    <string name="dialog_clear_data">清除預設</string>
+
+    <string name="dialog_msg_notify_clear_default">\"主畫面設定器\" 不是您預設的啟動器，請先清除預設</string>
+    <string name="dialog_msg_notify_setup_default">\"主畫面設定器\" 不是您預設的啟動器，請先先將本程式設定為預設的啟動器</string>
+
+    <string name="menu_home">啟動器清單</string>
+    <string name="menu_reset">清除預設</string>
+
+    <string name="loading">載入中&#8230;</string>
+
+    <string name="msg_no_need_reset">不需要清除預設！</string>
+
+    <!-- About Me	____________________________________________________________
+    	purpose:  -->
+    <string name="copy_right">©2012 Studio Bing-Huan</string>
+    <string name="version">版本</string>
+    <string name="feedback">建議? 問題? 回報?</string>
+    <string name="sendmail">寄送電子郵件給我</string>
+
+    <string name="menu_about">關於</string>
+    <string name="menu_more_apps">其它作品</string>
+</resources>

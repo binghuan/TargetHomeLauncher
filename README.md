@@ -1,5 +1,11 @@
 # Target Home Launcher
 
+## Feature overview
+
+![TargetHomeLauncher — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 An Android application that allows users to easily select and switch between different home launcher applications on their Android device.
 
 ## Overview
